@@ -1,0 +1,9 @@
+
+
+TNG Card No     : 1234567890123456
+TNG Mfg No      : 1234567890
+TNG Expiry Date : 15-06-2020
+TNG Txn ID      : 12321/R12345678901230
+TNG Terminal ID : 12R34P56
+TNG Balance Before: RM RM 50.00
+TNG Balance After : RM RM 28.50

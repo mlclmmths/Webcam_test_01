@@ -1,0 +1,16 @@
+
+Payee           : Pustaka Negeri Sarawak
+Receipt Number  : U1007000001-12
+Date & Time     : 30-03-2010 14:47:32
+Payment Amount  : RM RM 20.50
+                  Ringgit Twenty 
+                  and Cent Fifty Only
+Payer Name      : AHMAD NAZRI BIN ABDULLAH
+Member No.      : 770110085677
+Payment Method  : Touch 'n Go
+Payment For     : Overdue
+ 1.32002000000004-About rodents: A Guid...
+ 2.32002000000005-Flower children/Power...
+Revenue Code    : 76199
+Station ID      : PNMMPS01
+Txn Status      : Successful
